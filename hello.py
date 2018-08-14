@@ -1,7 +1,7 @@
 print("hello world")
 name=input("what is your name")
 print("hello,"+name+"!") 
-
+#字符串与数字
 C:\Users\dell>python
 Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:06:47) [MSC v.1914 32 bit (Intel)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
@@ -11,12 +11,12 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> temp=42
 >>> print("the temperature is "+repr(temp))
 the temperature is 42
-
+#转义\
 >>> path='c:\nowhere'
 >>> print(path)
 c:
 owhere
-
+#原始字符串
 >>> print(r'c:\nowhere')
 c:\nowhere
 
