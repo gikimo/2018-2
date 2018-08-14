@@ -31,4 +31,5 @@ hello
 hello\\
 >>> print(r'hello' '\\')
 hello\
->>>
+#命令行
+c:\>cd #想去的地方
